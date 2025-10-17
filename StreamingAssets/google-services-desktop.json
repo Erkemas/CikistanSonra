@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "459634055414",
+    "firebase_url": "https://interactivedocumentary-32116-default-rtdb.firebaseio.com",
+    "project_id": "interactivedocumentary-32116",
+    "storage_bucket": "interactivedocumentary-32116.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:459634055414:android:ba2533002bf0117f1774d7",
+        "android_client_info": {
+          "package_name": "com.EdaDeniz.CikistanSonra"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmi1Gjt5PXBn26aAKwVcRDtXfV6omTE7M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
